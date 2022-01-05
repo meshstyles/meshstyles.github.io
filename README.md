@@ -2,19 +2,24 @@
 
 ### Computer Science Student - Open Source Enthusiast - always working on something
 
+# At a glance
+
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=meshstyles&count_private=true&show_icons=true&title_color=267CB9)](https://github.com/anuraghazra/github-readme-stats)
+
 # Projects
 
 ### [Bash_Downloaders](https://github.com/meshstyles/bash_downloaders)
 
-A collection of downloaders to archive content from the web
+A collection of downloaders to archive content from the web.
+Read more [here](/bash_downloaders/)
 
 ### [little_helpers](https://github.com/meshstyles/little_helpers)
 
-A collection of small tools and extensions that can make your life a bit easier
+A collection of small tools and extensions that can make your life a bit easier. Read more [here](/little_helpers/)
 
 ### [vegasclac](https://github.com/meshstyles/vegasclac)
 
-Color value Calculator for Sony Vegas many different types of color code representations
+Color value Calculator for Sony Vegas many different types of color code representations. Read more [here](/vegasclac/)
 
 ### [nao_bot](https://github.com/meshstyles/nao_bot)
 
