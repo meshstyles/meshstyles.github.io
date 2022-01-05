@@ -1,0 +1,5 @@
+# files fuer testing
+Gemfile
+Gemfile.lock
+*.gemspec
+_site/*
