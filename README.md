@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+# max (meshstyles)
 
-You can use the [editor on GitHub](https://github.com/meshstyles/meshstyles.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Computer Science Student - Open Source Enthusiast - always working on something
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Projects
 
-### Markdown
+### [Bash_Downloaders](https://github.com/meshstyles/bash_downloaders)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A collection of downloaders to archive content from the web
 
-```markdown
-Syntax highlighted code block
+### [little_helpers](https://github.com/meshstyles/little_helpers)
 
-# Header 1
-## Header 2
-### Header 3
+A collection of small tools and extensions that can make your life a bit easier
 
-- Bulleted
-- List
+### [vegasclac](https://github.com/meshstyles/vegasclac)
 
-1. Numbered
-2. List
+Color value Calculator for Sony Vegas many different types of color code representations
 
-**Bold** and _Italic_ and `Code` text
+### [nao_bot](https://github.com/meshstyles/nao_bot)
 
-[Link](url) and ![Image](src)
-```
+A simple bot with poll functionality
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### [SemesterOrganizerBackEnd](https://github.com/frasolution/SemesterOrganizerBackEnd)
 
-### Jekyll Themes
+Uni Project: Backend for a semester organizer
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meshstyles/meshstyles.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [siemt3-logging](https://github.com/frasolution/siemt3-logging)
 
-### Support or Contact
+Uni Project: The CEP backend for our SIEM project that receives logs and outputs events to a database
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [siemt3-documents](https://github.com/frasolution/siemt3-documents)
+
+Uni Project: Further documentation on out SIEM project and the first part of the lectures phase
+
+### [SampleCode](https://github.com/frasolution/SampleCode)
+
+this repo contains code that is styled and commented to the standards of some courses
+
+# Skills
+
+## Programming
+
+-   Bash Scripting 3/5
+-   C/C++ 2/5
+-   JS/TS 3/5
+-   Java 3/5
+-   Golang 2/5
+-   HTML/CSS 2/5
+-   LaTeX/Markdown 2/5
+
+## Operating Systems
+
+-   Linux 4/5
+-   MacOS 2/5
+-   Windows 5/5
+
+## Software & Tools
+
+-   MS Office / GSuite 4/5
+-   Draw.io 4/5
+-   VS Code 4/5
+-   Git CLI 3/5
+
+# General Skills
+
+-   Software Engineering
+-   Scrum and XP
+-   Presenting and Marketing
+-   Video Editing
+-   Social Media
+-   Moderation
+-   Tinkering
+-   Soldering
+-   Web Scraping
+-   Code reading
+-   Automatization
+-   Chrome-extensions
+-   Data Privacy
+-   Reverse Engineering

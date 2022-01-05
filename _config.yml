@@ -1,1 +1,17 @@
-theme: jekyll-theme-minimal
+title: Max (meshstyles)
+logo: https://avatars.githubusercontent.com/u/29343041?v=4
+# email: i don't
+blank_title: true
+favicon: true
+description: "Hi I'm Max check out my github page and my programs."
+show_downloads: false
+remote_theme: pages-themes/minimal
+color-scheme: auto
+github:
+    is_project_page: false
+    is_user_page: true
+plugins:
+    - jekyll-sitemap
+    # - jekyll-seo-tag
+    - jemoji
+    - jekyll-remote-theme
