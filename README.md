@@ -47,6 +47,7 @@ this repo contains code that is styled and commented to the standards of some co
 
 -   Bash Scripting 3/5
 -   C/C++ 2/5
+-   c# .net 2/5
 -   JS/TS 3/5
 -   Java 3/5
 -   Golang 2/5
@@ -64,6 +65,7 @@ this repo contains code that is styled and commented to the standards of some co
 -   MS Office / GSuite 4/5
 -   Draw.io 4/5
 -   VS Code 4/5
+-   Visual Studio 2/5
 -   Git CLI 3/5
 
 # General Skills
@@ -81,4 +83,3 @@ this repo contains code that is styled and commented to the standards of some co
 -   Automatization
 -   Chrome-extensions
 -   Data Privacy
--   Reverse Engineering
