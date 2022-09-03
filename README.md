@@ -21,25 +21,29 @@ A collection of small tools and extensions that can make your life a bit easier.
 
 Color value Calculator for Sony Vegas many different types of color code representations. Read more [here](/vegasclac/)
 
-### [nao_bot](https://github.com/meshstyles/nao_bot)
+### [unilan discord bot](https://github.com/meshstyles/unilandiscordbot)
 
-A simple bot with poll functionality
+A simple bot with poll functionality made with Discord.js [ARCHIVE]
 
 ### [SemesterOrganizerBackEnd](https://github.com/frasolution/SemesterOrganizerBackEnd)
 
-Uni Project: Backend for a semester organizer
+Uni Project: Backend for a semester organizer [ARCHIVE]
 
 ### [siemt3-logging](https://github.com/frasolution/siemt3-logging)
 
-Uni Project: The CEP backend for our SIEM project that receives logs and outputs events to a database
+Uni Project: The CEP backend for our SIEM project that receives logs and outputs events to a database [ARCHIVE]
 
 ### [siemt3-documents](https://github.com/frasolution/siemt3-documents)
 
-Uni Project: Further documentation on out SIEM project and the first part of the lectures phase
+Uni Project: Further documentation on out SIEM project and the first part of the lectures phase [ARCHIVE]
 
 ### [SampleCode](https://github.com/frasolution/SampleCode)
 
 this repo contains code that is styled and commented to the standards of some courses
+
+### [Variable Homepage](https://github.com/meshstyles/variable-homepage)
+
+This is my first experiments with dynamic webpages using bootstrap 3 css and vue.js 2
 
 # Skills
 
@@ -58,7 +62,7 @@ this repo contains code that is styled and commented to the standards of some co
 
 -   Linux 4/5
 -   MacOS 2/5
--   Windows 5/5
+-   Windows 4/5
 
 ## Software & Tools
 
