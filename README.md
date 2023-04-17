@@ -27,11 +27,17 @@ A simple bot with poll functionality made with Discord.js [ARCHIVE]
 
 ### [SemesterOrganizerBackEnd](https://github.com/frasolution/SemesterOrganizerBackEnd)
 
-Uni Project: Backend for a semester organizer [ARCHIVE]
+Uni Project: Backend for a semester organizer using Nest.js and TypeORM [ARCHIVE]
 
 ### [siemt3-logging](https://github.com/frasolution/siemt3-logging)
 
-Uni Project: The CEP backend for our SIEM project that receives logs and outputs events to a database [ARCHIVE]
+Uni Project: The CEP backend for our SIEM project that receives logs and outputs events to a database [ARCHIVE]  
+Tools:
+
+-   InteliJ
+-   Spring Boot
+-   Esper (Java)
+-   JDBC(Prepared Statements)
 
 ### [siemt3-documents](https://github.com/frasolution/siemt3-documents)
 
@@ -39,7 +45,12 @@ Uni Project: Further documentation on out SIEM project and the first part of the
 
 ### [SampleCode](https://github.com/frasolution/SampleCode)
 
-this repo contains code that is styled and commented to the standards of some courses
+this repo contains some simple sample code that is styled and commented to the standards taught in some of the courses  
+Langauges:
+
+-   C/C++
+-   Mips32
+-   Java (SWE)
 
 ### [Variable Homepage](https://github.com/meshstyles/variable-homepage)
 
@@ -56,7 +67,7 @@ This is my first experiments with dynamic webpages using bootstrap 3 css and vue
 -   Java 3/5
 -   Golang 2/5
 -   HTML/CSS 2/5
--   LaTeX/Markdown 2/5
+-   LaTeX/Markdown 4/5
 
 ## Operating Systems
 
@@ -74,16 +85,24 @@ This is my first experiments with dynamic webpages using bootstrap 3 css and vue
 
 # General Skills
 
+-   Spring Boot
+-   Esper
+-   Nest.js
+-   Electron
+-   Gin Gonic
+-   WPF
 -   Software Engineering
+-   Agile
 -   Scrum and XP
--   Presenting and Marketing
 -   Video Editing
+-   Presenting and Marketing
 -   Social Media
 -   Moderation
--   Tinkering
--   Soldering
+-   Tinkerer
+-   Soldering and general simple repari
 -   Web Scraping
 -   Code reading
--   Automatization
--   Chrome-extensions
--   Data Privacy
+-   Automatisation
+-   chrome extensions
+-   Data privacy
+-   Productivity Tools
