@@ -1,6 +1,6 @@
 # max (meshstyles)
 
-### Computer Science Student - Open Source Enthusiast - always working on something
+### Developer - Open Source Enthusiast - always working on something
 
 # At a glance
 
