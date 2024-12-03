@@ -62,7 +62,7 @@ This is my first experiments with dynamic webpages using bootstrap 3 css and vue
 
 -   Bash Scripting 3/5
 -   C/C++ 2/5
--   c# .net 2/5
+-   C# .net 2/5
 -   JS/TS 3/5
 -   Java 3/5
 -   Golang 2/5
@@ -81,28 +81,29 @@ This is my first experiments with dynamic webpages using bootstrap 3 css and vue
 -   Draw.io 4/5
 -   VS Code 4/5
 -   Visual Studio 2/5
+-   Eclipse 2/5
 -   Git CLI 3/5
 
 # General Skills
 
 -   Spring Boot
--   Esper
 -   Nest.js
 -   Electron
 -   Gin Gonic
 -   WPF
+-   React.js
+-   Esper
 -   Software Engineering
--   Agile
--   Scrum and XP
+-   Agile Methods (Scrum and XP)
 -   Video Editing
 -   Presenting and Marketing
 -   Social Media
 -   Moderation
 -   Tinkerer
--   Soldering and general simple repari
+-   Soldering and general simple repairs
 -   Web Scraping
 -   Code reading
 -   Automatisation
--   chrome extensions
+-   Chrome Extensions
 -   Data privacy
 -   Productivity Tools
