@@ -1,0 +1,48 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+
+.container {
+    text-align: center;
+}
+
+.wheel {
+    border: 3px solid #00bcd4;
+    padding: 30px 40px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    min-height: 100px;
+    width: 400px;
+    background-color: #1e1e1e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.excuse-text {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+#spin-button {
+    background-color: #00bcd4;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#spin-button:hover {
+    background-color: #0097a7;
+}
